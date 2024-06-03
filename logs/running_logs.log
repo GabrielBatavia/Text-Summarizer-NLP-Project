@@ -1,0 +1,68 @@
+[2024-06-01 19:13:57,674 - INFO - main: Welcome to our custom log]
+[2024-06-01 19:51:43,673 - INFO - main: Welcome to our custom log]
+[2024-06-03 13:17:53,020 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-03 13:17:53,041 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-03 13:17:53,043 - INFO - common: created directory at: artifacts]
+[2024-06-03 13:17:53,046 - INFO - common: created directory at: artifacts/data_ingestion]
+[2024-06-03 13:26:12,137 - INFO - 770202532: artifacts/data_ingestion/data.zip downloaded with the following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5348:234927:CA2B3:E6BDE:665D6017
+Accept-Ranges: bytes
+Date: Mon, 03 Jun 2024 06:18:00 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lax-kwhp1940131-LAX
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1717395480.808698,VS0,VE734
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9eb87c2dae0accaa33af3a9387917f5ba93b65f1
+Expires: Mon, 03 Jun 2024 06:23:00 GMT
+Source-Age: 1
+
+]
+[2024-06-03 14:11:23,440 - INFO - main: >>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-03 14:11:23,442 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-03 14:11:23,443 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-03 14:11:23,444 - INFO - common: created directory at: artifacts]
+[2024-06-03 14:11:23,444 - INFO - common: created directory at: artifacts/data_ingestion]
+[2024-06-03 14:26:10,645 - INFO - data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5348:234927:CA2B3:E6BDE:665D6017
+Accept-Ranges: bytes
+Date: Mon, 03 Jun 2024 07:11:27 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lax-kwhp1940078-LAX
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1717398687.010918,VS0,VE110
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 6f94e7d2eacd6e076ba80d03ddc932013d4e624e
+Expires: Mon, 03 Jun 2024 07:16:27 GMT
+Source-Age: 0
+
+]
+[2024-06-03 14:26:10,812 - INFO - main: >>>>> stage Data Ingestion stage completed <<<<<<
+
+x=========x]
