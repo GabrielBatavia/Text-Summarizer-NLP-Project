@@ -66,3 +66,184 @@ Source-Age: 0
 [2024-06-03 14:26:10,812 - INFO - main: >>>>> stage Data Ingestion stage completed <<<<<<
 
 x=========x]
+[2024-06-05 19:07:25,145 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 19:07:25,160 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 19:07:25,162 - INFO - common: created directory at: artifacts]
+[2024-06-05 19:07:25,165 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 19:08:48,579 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 19:08:48,582 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 19:08:48,583 - INFO - common: created directory at: artifacts]
+[2024-06-05 19:08:48,585 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 19:09:54,296 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 19:09:54,299 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 19:09:54,300 - INFO - common: created directory at: artifacts]
+[2024-06-05 19:09:54,302 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 19:11:53,783 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 19:11:53,787 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 19:11:53,788 - INFO - common: created directory at: artifacts]
+[2024-06-05 19:11:53,790 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 19:13:43,473 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 19:13:43,475 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 19:13:43,478 - INFO - common: created directory at: artifacts]
+[2024-06-05 19:13:43,480 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 19:14:35,415 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 19:14:35,417 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 19:14:35,419 - INFO - common: created directory at: artifacts]
+[2024-06-05 19:14:35,421 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 19:23:07,058 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 19:23:07,060 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 19:23:07,062 - INFO - common: created directory at: artifacts]
+[2024-06-05 19:23:07,064 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 20:32:55,009 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 20:32:55,018 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 20:32:55,022 - INFO - common: created directory at: artifacts]
+[2024-06-05 20:32:55,026 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 20:37:33,065 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 20:37:33,069 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 20:37:33,071 - INFO - common: created directory at: artifacts]
+[2024-06-05 20:37:33,074 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 20:43:08,766 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 20:43:08,771 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 20:43:08,774 - INFO - common: created directory at: artifacts]
+[2024-06-05 20:43:08,777 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 20:49:39,318 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 20:49:39,323 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 20:49:39,326 - INFO - common: created directory at: artifacts]
+[2024-06-05 20:49:39,330 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 20:56:50,211 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 20:56:50,217 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 20:56:50,221 - INFO - common: created directory at: artifacts]
+[2024-06-05 20:56:50,223 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 20:57:11,448 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 20:57:11,451 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 20:57:11,453 - INFO - common: created directory at: artifacts]
+[2024-06-05 20:57:11,457 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 20:58:49,789 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 20:58:49,791 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 20:58:49,793 - INFO - common: created directory at: artifacts]
+[2024-06-05 20:58:49,794 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 21:02:44,167 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 21:02:44,170 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 21:02:44,172 - INFO - common: created directory at: artifacts]
+[2024-06-05 21:02:44,174 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 21:15:43,642 - INFO - main: >>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-05 21:15:43,645 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 21:15:43,645 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 21:15:43,646 - INFO - common: created directory at: artifacts]
+[2024-06-05 21:15:43,646 - INFO - common: created directory at: artifacts/data_ingestion]
+[2024-06-05 21:15:43,647 - ERROR - main: 'DataIngestion' object has no attribute 'get_size']
+Traceback (most recent call last):
+  File "c:\Users\USER\Documents\Text-Summarizer-NLP-Project\main.py", line 9, in <module>
+    data_ingestion.main()
+  File "c:\Users\USER\Documents\Text-Summarizer-NLP-Project\src\textSummarizer\pipeline\stage_01_data_ingestion.py", line 13, in main
+    data_ingestion.download_file()
+  File "C:\Users\USER\Documents\Text-Summarizer-NLP-Project\src\textSummarizer\components\data_ingestion.py", line 21, in download_file
+    logger.info(f"File already exists of size: {self.get_size(Path(self.config.local_data_file))}")
+                                                ^^^^^^^^^^^^^
+AttributeError: 'DataIngestion' object has no attribute 'get_size'
+[2024-06-05 21:15:59,295 - INFO - main: >>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-05 21:15:59,298 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 21:15:59,299 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 21:15:59,299 - INFO - common: created directory at: artifacts]
+[2024-06-05 21:15:59,300 - INFO - common: created directory at: artifacts/data_ingestion]
+[2024-06-05 21:16:13,062 - INFO - data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C710:1507FC:1DACED:2352CC:66607328
+Accept-Ranges: bytes
+Date: Wed, 05 Jun 2024 14:16:09 GMT
+Via: 1.1 varnish
+X-Served-By: cache-qpg1232-QPG
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1717596969.701308,VS0,VE681
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 9c29903c6834382c75212e3239960a7cd1f977eb
+Expires: Wed, 05 Jun 2024 14:21:09 GMT
+Source-Age: 0
+
+]
+[2024-06-05 21:16:13,230 - INFO - main: >>>>> stage Data Ingestion stage completed <<<<<<
+
+x=========x]
+[2024-06-05 21:16:13,231 - INFO - main: >>>>> stage Data validation stage started <<<<<<]
+[2024-06-05 21:16:13,233 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 21:16:13,234 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 21:16:13,235 - INFO - common: created directory at: artifacts]
+[2024-06-05 21:16:13,236 - INFO - common: created directory at: artifacts/data_ingestion]
+[2024-06-05 21:16:13,236 - ERROR - main: 'DataValidation' object has no attribute 'download_file']
+Traceback (most recent call last):
+  File "c:\Users\USER\Documents\Text-Summarizer-NLP-Project\main.py", line 19, in <module>
+    data_validation.main()
+  File "c:\Users\USER\Documents\Text-Summarizer-NLP-Project\src\textSummarizer\pipeline\stage_02_data_validation.py", line 13, in main
+    data_validation.download_file()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataValidation' object has no attribute 'download_file'
+[2024-06-05 21:19:22,097 - INFO - main: >>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-05 21:19:22,100 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 21:19:22,100 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 21:19:22,102 - INFO - common: created directory at: artifacts]
+[2024-06-05 21:19:22,102 - INFO - common: created directory at: artifacts/data_ingestion]
+[2024-06-05 21:19:22,102 - ERROR - main: 'DataIngestion' object has no attribute 'get_size']
+Traceback (most recent call last):
+  File "c:\Users\USER\Documents\Text-Summarizer-NLP-Project\main.py", line 9, in <module>
+    data_ingestion.main()
+  File "c:\Users\USER\Documents\Text-Summarizer-NLP-Project\src\textSummarizer\pipeline\stage_01_data_ingestion.py", line 13, in main
+    data_ingestion.download_file()
+  File "C:\Users\USER\Documents\Text-Summarizer-NLP-Project\src\textSummarizer\components\data_ingestion.py", line 21, in download_file
+    logger.info(f"File already exists of size: {self.get_size(Path(self.config.local_data_file))}")
+                                                ^^^^^^^^^^^^^
+AttributeError: 'DataIngestion' object has no attribute 'get_size'
+[2024-06-05 21:20:11,736 - INFO - main: >>>>> stage Data Ingestion stage started <<<<<<]
+[2024-06-05 21:20:11,738 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 21:20:11,739 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 21:20:11,739 - INFO - common: created directory at: artifacts]
+[2024-06-05 21:20:11,740 - INFO - common: created directory at: artifacts/data_ingestion]
+[2024-06-05 21:20:24,965 - INFO - data_ingestion: artifacts/data_ingestion/data.zip downloaded with the following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C710:1507FC:1DACED:2352CC:66607328
+Accept-Ranges: bytes
+Date: Wed, 05 Jun 2024 14:20:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-qpg120087-QPG
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1717597212.516109,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: dfdf8fbf8e44174cc9865e1b2e23671a84a52f42
+Expires: Wed, 05 Jun 2024 14:25:11 GMT
+Source-Age: 242
+
+]
+[2024-06-05 21:20:25,133 - INFO - main: >>>>> stage Data Ingestion stage completed <<<<<<
+
+x=========x]
+[2024-06-05 21:20:25,133 - INFO - main: >>>>> stage Data validation stage started <<<<<<]
+[2024-06-05 21:20:25,136 - INFO - common: yaml file: Config\config.yaml loaded successfully]
+[2024-06-05 21:20:25,136 - INFO - common: yaml file: params.yaml loaded successfully]
+[2024-06-05 21:20:25,137 - INFO - common: created directory at: artifacts]
+[2024-06-05 21:20:25,138 - INFO - common: created directory at: artifacts/data_validation]
+[2024-06-05 21:20:25,139 - INFO - main: >>>>> stage Data validation stage completed <<<<<<
+
+x=========x]
